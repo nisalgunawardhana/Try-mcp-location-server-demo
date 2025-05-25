@@ -2,6 +2,8 @@
 
 This project demonstrates a Model Context Protocol (MCP) server for managing locations using .NET 8 and the ModelContextProtocol library.
 
+[![Follow me on GitHub](https://img.shields.io/github/followers/nisalgunawardhana?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/nisalgunawardhana)
+
 ---
 
 ## Quick Start
@@ -69,6 +71,19 @@ This demo exposes the following MCP tools for use in Copilot Chat or any MCP cli
 To add new tools, create static methods in `Tools/LocationsTools.cs` and annotate them with `[McpServerTool]`.
 
 ---
+## Connect with Me
+
+Follow me on social media for more sessions, tech tips, and giveaways:
+
+- [LinkedIn](https://www.linkedin.com/in/nisalgunawardhana/) — Professional updates and networking
+- [Twitter (X)](https://x.com/thenisals) — Insights and announcements
+- [Instagram](https://www.instagram.com/thenisals) — Behind-the-scenes and daily tips
+- [GitHub](https://github.com/nisalgunawardhana) — Repositories and project updates
+- [YouTube](https://www.youtube.com/channel/UCNP5-zR4mN6zkiJ9pVCM-1w) — Video tutorials and sessions
+
+Feel free to connect and stay updated!
+
+---
 
 ## License
-MIT
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
