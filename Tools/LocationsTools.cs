@@ -17,7 +17,7 @@ public static class LocationsTools
 
 
     //getall location
-    
+
     [McpServerTool(Name = "GetAllLocations"), Description("Retrieves all locations from the server.")]
 
     public static void GetAllLocations()
@@ -27,39 +27,19 @@ public static class LocationsTools
 
         Console.WriteLine(returnLocations);
     }
-
-    // get location by id
     
-    [McpServerTool(Name = "GetLocationById"), Description("Retrieves a location by its ID.")]
+    /*
+    Task 2: Create a method to get a location by its ID.
+    - Define a public static method (e.g., GetLocationById) that takes an ID parameter.
+    - Use _locationService.GetLocationById(id) to fetch the location.
+    - Serialize the result and print it.
 
-    public static void GetLocationById(int id)
-    {
-        var location = _locationService.GetLocationById(id);
-        var returnLocation = JsonSerializer.Serialize(location);
+    Task 3: Create a method to add a new location.
+    - Define a public static method (e.g., AddLocation) that takes the necessary parameters for a location.
+    - Create a new Location object and pass it to _locationService.AddLocation(location).
+    - Optionally, serialize and print the result or confirmation.
+    */
 
-        Console.WriteLine(returnLocation);
-    }
-
-    // add a new location
-    
-    [McpServerTool(Name = "AddLocation"), Description("Adds a new location to the server.")]
-
-    public static void AddLocation(string name, string description, double latitude, double longitude)
-    {
-        var newLocation = new LocationServer.Models.Location
-        {
-            Id = new Random().Next(10000, 99999), // Demo: random ID
-            Name = name,
-            Description = description,
-            Latitude = latitude,
-            Longitude = longitude
-        };
-        _locationService.AddLocation(newLocation);
-        _locationService.SaveChanges();
-
-        Console.WriteLine(JsonSerializer.Serialize(newLocation));
-    }
-  
 }
 
 

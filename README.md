@@ -23,7 +23,16 @@ This project demonstrates a Model Context Protocol (MCP) server for managing loc
 4. **(Optional) Use with VS Code Copilot Chat:**
    - Open this folder in VS Code.
    - Ensure `.vscode/mcp.json` exists and is configured (see below).
-   - In Copilot Chat, type: `@server LocationServer` to connect and use the tools.
+   -
+      - ![Image 1](images/image1.png)
+      - ![Image 2](images/image2.png)
+
+      5. **Start a chat session:**  
+         - In Copilot Chat, just type:  
+           ```
+           Can you retrieve all locations from the server
+           ```
+         - Copilot Chat will use the MCP tool to fetch all locations.
 
 ---
 
@@ -51,21 +60,8 @@ This project demonstrates a Model Context Protocol (MCP) server for managing loc
 This demo exposes the following MCP tools for use in Copilot Chat or any MCP client:
 
 1. **GetAllLocations**: Retrieve all locations from the server.
-2. **GetLocationById**: Retrieve a location by its ID.
-3. **AddLocation**: Add a new location to the server.
-
-You can invoke these tools directly from Copilot Chat, e.g.:
-- `@tool GetAllLocations`
-- `@tool GetLocationById { "id": 1 }`
-- `@tool AddLocation { "name": "New Place", "description": "A demo location", "latitude": 0, "longitude": 0 }`
-
----
-
-## How to Run MCP Server Using VS Code Copilot Chat
-1. Open this project in VS Code.
-2. Make sure the server is running (`dotnet run --project LocationServer.csproj`).
-3. Open Copilot Chat and type `@server LocationServer` to connect.
-4. Use `@tool` commands to interact with the server tools.
+2. **GetLocationById**: (Not yet implemented) Retrieve a location by its ID. You can add this tool by creating a static method in `Tools/LocationsTools.cs` and annotating it with `[McpServerTool]`.
+3. **AddLocation**: (Not yet implemented) Add a new location to the server. To enable this, define a static method in `Tools/LocationsTools.cs` and use the `[McpServerTool]` attribute.
 
 ---
 
