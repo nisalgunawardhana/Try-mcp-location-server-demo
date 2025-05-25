@@ -1,0 +1,352 @@
+[
+  {
+    "Id": 1,
+    "Name": "Eiffel Tower",
+    "Description": "Iconic wrought-iron lattice tower in Paris, France.",
+    "Latitude": 48.8584,
+    "Longitude": 2.2945
+  },
+  {
+    "Id": 2,
+    "Name": "Statue of Liberty",
+    "Description": "Famous neoclassical sculpture on Liberty Island, New York, USA.",
+    "Latitude": 40.6892,
+    "Longitude": -74.0445
+  },
+  {
+    "Id": 3,
+    "Name": "Great Wall of China",
+    "Description": "Ancient series of walls and fortifications in northern China.",
+    "Latitude": 40.4319,
+    "Longitude": 116.5704
+  },
+  {
+    "Id": 4,
+    "Name": "Sydney Opera House",
+    "Description": "Multi-venue performing arts centre in Sydney, Australia.",
+    "Latitude": -33.8568,
+    "Longitude": 151.2153
+  },
+  {
+    "Id": 5,
+    "Name": "Taj Mahal",
+    "Description": "Ivory-white marble mausoleum in Agra, India.",
+    "Latitude": 27.1751,
+    "Longitude": 78.0421
+  },
+  {
+    "Id": 6,
+    "Name": "Christ the Redeemer",
+    "Description": "Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil.",
+    "Latitude": -22.9519,
+    "Longitude": -43.2105
+  },
+  {
+    "Id": 7,
+    "Name": "Colosseum",
+    "Description": "Large ancient amphitheatre in Rome, Italy.",
+    "Latitude": 41.8902,
+    "Longitude": 12.4922
+  },
+  {
+    "Id": 8,
+    "Name": "Machu Picchu",
+    "Description": "15th-century Inca citadel in Peru.",
+    "Latitude": -13.1631,
+    "Longitude": -72.5450
+  },
+  {
+    "Id": 9,
+    "Name": "Pyramids of Giza",
+    "Description": "Ancient pyramids in Giza, Egypt.",
+    "Latitude": 29.9792,
+    "Longitude": 31.1342
+  },
+  {
+    "Id": 10,
+    "Name": "Golden Gate Bridge",
+    "Description": "Suspension bridge spanning the Golden Gate in San Francisco, USA.",
+    "Latitude": 37.8199,
+    "Longitude": -122.4783
+  },
+  {
+    "Id": 11,
+    "Name": "Big Ben",
+    "Description": "Famous clock tower in London, England.",
+    "Latitude": 51.5007,
+    "Longitude": -0.1246
+  },
+  {
+    "Id": 12,
+    "Name": "Mount Fuji",
+    "Description": "Iconic volcano in Japan.",
+    "Latitude": 35.3606,
+    "Longitude": 138.7274
+  },
+  {
+    "Id": 13,
+    "Name": "Niagara Falls",
+    "Description": "Famous waterfalls on the border of Ontario, Canada and New York, USA.",
+    "Latitude": 43.0962,
+    "Longitude": -79.0377
+  },
+  {
+    "Id": 14,
+    "Name": "Burj Khalifa",
+    "Description": "Tallest building in the world, located in Dubai, UAE.",
+    "Latitude": 25.1972,
+    "Longitude": 55.2744
+  },
+  {
+    "Id": 15,
+    "Name": "Grand Canyon",
+    "Description": "Famous canyon in Arizona, USA.",
+    "Latitude": 36.1069,
+    "Longitude": -112.1129
+  },
+  {
+    "Id": 16,
+    "Name": "Stonehenge",
+    "Description": "Prehistoric monument in Wiltshire, England.",
+    "Latitude": 51.1789,
+    "Longitude": -1.8262
+  },
+  {
+    "Id": 17,
+    "Name": "Angkor Wat",
+    "Description": "Temple complex in Cambodia.",
+    "Latitude": 13.4125,
+    "Longitude": 103.8670
+  },
+  {
+    "Id": 18,
+    "Name": "Sagrada Familia",
+    "Description": "Large unfinished Roman Catholic church in Barcelona, Spain.",
+    "Latitude": 41.4036,
+    "Longitude": 2.1744
+  },
+  {
+    "Id": 19,
+    "Name": "Acropolis of Athens",
+    "Description": "Ancient citadel in Athens, Greece.",
+    "Latitude": 37.9715,
+    "Longitude": 23.7257
+  },
+  {
+    "Id": 20,
+    "Name": "Petra",
+    "Description": "Historical and archaeological city in southern Jordan.",
+    "Latitude": 30.3285,
+    "Longitude": 35.4444
+  },
+  {
+    "Id": 21,
+    "Name": "Mount Everest",
+    "Description": "Earth's highest mountain above sea level, located in the Himalayas.",
+    "Latitude": 27.9881,
+    "Longitude": 86.9250
+  },
+  {
+    "Id": 22,
+    "Name": "Buckingham Palace",
+    "Description": "London residence and administrative headquarters of the monarch of the UK.",
+    "Latitude": 51.5014,
+    "Longitude": -0.1419
+  },
+  {
+    "Id": 23,
+    "Name": "Alcatraz Island",
+    "Description": "Small island with a notorious former prison in San Francisco Bay, USA.",
+    "Latitude": 37.8267,
+    "Longitude": -122.4230
+  },
+  {
+    "Id": 24,
+    "Name": "Table Mountain",
+    "Description": "Flat-topped mountain overlooking Cape Town, South Africa.",
+    "Latitude": -33.9628,
+    "Longitude": 18.4098
+  },
+  {
+    "Id": 25,
+    "Name": "Brandenburg Gate",
+    "Description": "18th-century neoclassical monument in Berlin, Germany.",
+    "Latitude": 52.5163,
+    "Longitude": 13.3777
+  },
+  {
+    "Id": 26,
+    "Name": "Chichen Itza",
+    "Description": "Large pre-Columbian archaeological site in Mexico.",
+    "Latitude": 20.6843,
+    "Longitude": -88.5678
+  },
+  {
+    "Id": 27,
+    "Name": "Santorini",
+    "Description": "Picturesque island in the Aegean Sea, Greece.",
+    "Latitude": 36.3932,
+    "Longitude": 25.4615
+  },
+  {
+    "Id": 28,
+    "Name": "Banff National Park",
+    "Description": "Canada's oldest national park, located in Alberta.",
+    "Latitude": 51.4968,
+    "Longitude": -115.9281
+  },
+  {
+    "Id": 29,
+    "Name": "Louvre Museum",
+    "Description": "World's largest art museum in Paris, France.",
+    "Latitude": 48.8606,
+    "Longitude": 2.3376
+  },
+  {
+    "Id": 30,
+    "Name": "Times Square",
+    "Description": "Major commercial intersection and tourist destination in New York City, USA.",
+    "Latitude": 40.7580,
+    "Longitude": -73.9855
+  },
+  {
+    "Id": 31,
+    "Name": "CN Tower",
+    "Description": "Communications and observation tower in Toronto, Canada.",
+    "Latitude": 43.6426,
+    "Longitude": -79.3871
+  },
+  {
+    "Id": 32,
+    "Name": "Victoria Falls",
+    "Description": "Waterfall on the Zambezi River in Africa, on the border of Zambia and Zimbabwe.",
+    "Latitude": -17.9243,
+    "Longitude": 25.8567
+  },
+  {
+    "Id": 33,
+    "Name": "Prague Castle",
+    "Description": "Historic castle complex in Prague, Czech Republic.",
+    "Latitude": 50.0909,
+    "Longitude": 14.4005
+  },
+  {
+    "Id": 34,
+    "Name": "Blue Lagoon",
+    "Description": "Geothermal spa in southwestern Iceland.",
+    "Latitude": 63.8804,
+    "Longitude": -22.4495
+  },
+  {
+    "Id": 35,
+    "Name": "Matterhorn",
+    "Description": "Mountain of the Alps, straddling Switzerland and Italy.",
+    "Latitude": 45.9763,
+    "Longitude": 7.6586
+  },
+  {
+    "Id": 36,
+    "Name": "Forbidden City",
+    "Description": "Palace complex in central Beijing, China.",
+    "Latitude": 39.9163,
+    "Longitude": 116.3972
+  },
+  {
+    "Id": 37,
+    "Name": "Uluru (Ayers Rock)",
+    "Description": "Massive sandstone monolith in the heart of the Northern Territory, Australia.",
+    "Latitude": -25.3444,
+    "Longitude": 131.0369
+  },
+  {
+    "Id": 38,
+    "Name": "Empire State Building",
+    "Description": "102-story Art Deco skyscraper in Midtown Manhattan, New York City, USA.",
+    "Latitude": 40.7484,
+    "Longitude": -73.9857
+  },
+  {
+    "Id": 39,
+    "Name": "Lake Baikal",
+    "Description": "World's deepest and oldest freshwater lake in Siberia, Russia.",
+    "Latitude": 53.5587,
+    "Longitude": 108.1650
+  },
+  {
+    "Id": 40,
+    "Name": "Mount Kilimanjaro",
+    "Description": "Africa's highest mountain, located in Tanzania.",
+    "Latitude": -3.0674,
+    "Longitude": 37.3556
+  },
+  {
+    "Id": 41,
+    "Name": "Versailles Palace",
+    "Description": "Former royal residence in Versailles, France.",
+    "Latitude": 48.8049,
+    "Longitude": 2.1204
+  },
+  {
+    "Id": 42,
+    "Name": "Hagia Sophia",
+    "Description": "Historic mosque and former cathedral in Istanbul, Turkey.",
+    "Latitude": 41.0086,
+    "Longitude": 28.9802
+  },
+  {
+    "Id": 43,
+    "Name": "Serengeti National Park",
+    "Description": "Tanzanian national park known for its annual migration of over 1.5 million wildebeest.",
+    "Latitude": -2.3333,
+    "Longitude": 34.8333
+  },
+  {
+    "Id": 44,
+    "Name": "Salar de Uyuni",
+    "Description": "World's largest salt flat in southwest Bolivia.",
+    "Latitude": -20.1338,
+    "Longitude": -67.4891
+  },
+  {
+    "Id": 45,
+    "Name": "Mount Rushmore",
+    "Description": "Massive sculpture carved into Mount Rushmore in South Dakota, USA.",
+    "Latitude": 43.8791,
+    "Longitude": -103.4591
+  },
+  {
+    "Id": 46,
+    "Name": "Neuschwanstein Castle",
+    "Description": "19th-century Romanesque Revival palace in Germany.",
+    "Latitude": 47.5576,
+    "Longitude": 10.7498
+  },
+  {
+    "Id": 47,
+    "Name": "Table Mountain National Park",
+    "Description": "National park encompassing the Table Mountain range in South Africa.",
+    "Latitude": -34.3568,
+    "Longitude": 18.4721
+  },
+  {
+    "Id": 48,
+    "Name": "Yosemite National Park",
+    "Description": "National park in California's Sierra Nevada mountains, USA.",
+    "Latitude": 37.8651,
+    "Longitude": -119.5383
+  },
+  {
+    "Id": 49,
+    "Name": "The Shard",
+    "Description": "72-storey skyscraper in London, England.",
+    "Latitude": 51.5045,
+    "Longitude": -0.0865
+  },
+  {
+    "Id": 50,
+    "Name": "Copacabana Beach",
+    "Description": "Famous beach in Rio de Janeiro, Brazil.",
+    "Latitude": -22.9711,
+    "Longitude": -43.1822
+  }
+]

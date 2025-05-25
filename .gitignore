@@ -1,0 +1,25 @@
+# .NET build
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+.history/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# User secrets
+secrets.json
+
+# Others
+*.swp
+*.tmp
